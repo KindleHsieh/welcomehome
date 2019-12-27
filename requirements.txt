@@ -1,6 +1,2 @@
 line-bot-sdk
 flask
-json
-csv
-random
-datetime
