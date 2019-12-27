@@ -1,0 +1,38 @@
+[
+  {
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "主日崇拜",
+        "text": "動作 1",
+        "data": "func=主日崇拜"
+      },
+      {
+        "type": "postback",
+        "label": "青年崇拜",
+        "text": "動作 2",
+        "data": "func=青年崇拜"
+      },
+      {
+        "type": "postback",
+        "label": "國高崇拜",
+        "text": "動作 3",
+        "data": "func=國高崇拜"
+      },
+      {
+        "type": "postback",
+        "label": "兒童歡樂派",
+        "text": "動作 4",
+        "data": "func=兒童歡樂派"
+      }
+    ],
+    "title": "歡迎來聚會",
+    "text": "我們有以下幾個固定聚會時間，歡迎來參加。別擔心有小小孩的問題，我們主日崇拜有育嬰空間喔！"
+  }
+}
+
+]

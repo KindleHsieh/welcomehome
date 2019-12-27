@@ -1,0 +1,84 @@
+
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "路人",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 836,
+        "height": 844
+      },
+      "action": {
+        "type": "message",
+        "text": "關於中壢靈糧堂"
+      }
+    },
+    {
+      "bounds": {
+        "x": 830,
+        "y": 5,
+        "width": 830,
+        "height": 844
+      },
+      "action": {
+        "type": "message",
+        "text": "聚會資訊"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1670,
+        "y": 9,
+        "width": 825,
+        "height": 835
+      },
+      "action": {
+        "type": "message",
+        "text": "聽聽上帝的聲音"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 835,
+        "width": 830,
+        "height": 851
+      },
+      "action": {
+        "type": "message",
+        "text": "食用聖經"
+      }
+    },
+    {
+      "bounds": {
+        "x": 830,
+        "y": 846,
+        "width": 830,
+        "height": 840
+      },
+      "action": {
+        "type": "message",
+        "text": "ＪＯＩＮ活動"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1670,
+        "y": 847,
+        "width": 830,
+        "height": 839
+      },
+      "action": {
+        "type": "message",
+        "text": "持續規劃中"
+      }
+    }
+  ]
+}

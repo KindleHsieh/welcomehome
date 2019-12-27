@@ -1,0 +1,33 @@
+[
+{
+  "type": "text",
+  "text": "原來如此，看來是太像了，我認錯人了哈哈，可見你很親切呢～\n不過你來了，我就要好好歡迎你＾＾\n\n「一次歡迎，永遠歡迎，歡迎回家～」"
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "青少",
+        "text": "青少",
+        "data": "func=青少"
+      },
+      {
+        "type": "postback",
+        "label": "大專/社青",
+        "text": "大專/社青",
+        "data": "func=大專|社青"
+      },
+      {
+        "type": "message",
+        "label": "成年/常青",
+        "text": "func=成年|常青"
+      }
+    ],
+    "text": "請問你是屬於哪個年齡族群的家人呢？"
+  }
+}
+]

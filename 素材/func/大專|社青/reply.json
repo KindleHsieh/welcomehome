@@ -1,0 +1,22 @@
+[
+  {
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "大專",
+        "data": "age=1&identity=大專小組"
+      },
+      {
+        "type": "postback",
+        "label": "社青",
+        "data": "age=2&identity=社青小組"
+      }
+    ],
+    "text": "是大專還是社青呢？"
+  }
+}
+]

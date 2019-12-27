@@ -1,0 +1,34 @@
+[
+  {
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "聯絡我們，分機轉34",
+        "uri": "tel://034561011"
+      },
+      {
+        "type": "postback",
+        "label": "我們的地址",
+        "text": "桃園市中壢區杭州路71號",
+        "data": "func=教會位置"
+      },
+      {
+        "type": "postback",
+        "label": "聚會時間",
+        "data": "func=聚會時間"
+      },
+      {
+        "type": "postback",
+        "label": "其他分堂資訊",
+        "data": "func=其他分堂資訊"
+      }
+    ],
+    "title": "聚會資訊",
+    "text": "下方資訊可以找到我們喔。如果發現離我們有段距離，可以點選「其他分堂」，找到其他的教會喔。"
+  }
+}
+]

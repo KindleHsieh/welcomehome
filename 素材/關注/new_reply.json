@@ -1,0 +1,35 @@
+[
+{
+  "type": "text",
+  "text": "您好！歡迎回家～"
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "新朋友",
+        "data": "func=新朋友"
+      },
+      {
+        "type": "postback",
+        "label": "已有牧區",
+        "text": "已有牧區",
+        "data": "func=已有牧區"
+      },
+      {
+        "type": "postback",
+        "label": "我是好奇經過的啦",
+        "text": "我是好奇經過的啦",
+        "data": "func=我是好奇經過的啦"
+      }
+    ],
+
+    "title": "咦？我是不是看過你",
+    "text": "請問你是....?"
+  }
+}
+]

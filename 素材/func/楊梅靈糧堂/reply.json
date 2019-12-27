@@ -1,0 +1,22 @@
+[
+  {
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "電話",
+        "uri": "tel://03 485 6828"
+      },
+      {
+        "type": "message",
+        "label": "位置",
+        "text": "桃園市楊梅區新農街91巷8號"
+      }
+    ],
+    "text": "楊梅靈糧堂"
+  }
+}
+]

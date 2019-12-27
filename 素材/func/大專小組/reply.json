@@ -1,0 +1,52 @@
+[
+  {
+  "type": "text",
+  "text": "好的，你應該不會忘記自己的小組名稱吧？\n\n快找到自己的小組跟小組員們聯絡感情喔～"
+},
+  {
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+
+        "title": "喜樂毛",
+        "text": "讓你歡樂不斷",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "我是小毛",
+            "text": "動作 1",
+            "data": "identity=組員選好小組&team=0"
+          },
+          {
+            "type": "postback",
+            "label": "我是毛頭",
+            "text": "動作 2",
+            "data": "identity=組長選好小組&team=0&leader=0"
+          }
+        ]
+      },
+      {
+
+        "title": "白蘿蔔",
+        "text": "我們就是個蘿蔔頭",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "小蘿蔔頭",
+            "data": "func=組員選好小組&team=1"
+          },
+          {
+            "type": "postback",
+            "label": "大蘿蔔根",
+            "data": "func=組長選好小組&team=1&leader=0"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

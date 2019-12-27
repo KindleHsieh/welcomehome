@@ -1,0 +1,88 @@
+
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "小羊",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 831,
+        "height": 836
+      },
+      "action": {
+        "type": "postback",
+        "text": "動作 1",
+        "data": "func=故事性聖經"
+      }
+    },
+    {
+      "bounds": {
+        "x": 822,
+        "y": 0,
+        "width": 835,
+        "height": 845
+      },
+      "action": {
+        "type": "postback",
+        "text": "動作 2",
+        "data": "func=每日靈糧"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1660,
+        "y": 0,
+        "width": 840,
+        "height": 846
+      },
+      "action": {
+        "type": "message",
+        "text": "聽聽上帝的聲音"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 836,
+        "width": 830,
+        "height": 850
+      },
+      "action": {
+        "type": "postback",
+        "text": "動作 4",
+        "data": "func=教會資訊"
+      }
+    },
+    {
+      "bounds": {
+        "x": 835,
+        "y": 855,
+        "width": 835,
+        "height": 831
+      },
+      "action": {
+        "type": "postback",
+        "text": "動作 5",
+        "data": "func=教會活動"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1675,
+        "y": 851,
+        "width": 825,
+        "height": 835
+      },
+      "action": {
+        "type": "message",
+        "text": "敬請期待"
+      }
+    }
+  ]
+}

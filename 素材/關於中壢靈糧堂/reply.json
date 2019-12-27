@@ -1,0 +1,27 @@
+[
+  {
+  "type": "text",
+  "text": "『生命絕對不會只是這樣』\n\n你想突破生命瓶頸，\n打開光明的大門，經歷豐盛的生命嗎?\n誠摯邀請您跨出信心的腳步。\n中壢靈糧堂有愛、有真理、有 神的同在。\n您的問題可以得到解決，\n心靈得著復甦，生命得著成長。\n歡迎您成為靈糧大家族的一員，\n願 神的祝福臨到你!"
+},
+  {
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "我想知道",
+        "text": "快告訴我吧",
+        "data": "func=聚會時間"
+      },
+      {
+        "type": "message",
+        "label": "我拒絕",
+        "text": "給我掙扎一下。 我來去看看下方的圖文選單。"
+      }
+    ],
+    "text": "很高興認識你，想要知道我們的聚會時間嗎？"
+  }
+}
+]

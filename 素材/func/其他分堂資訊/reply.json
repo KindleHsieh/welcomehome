@@ -1,0 +1,153 @@
+[
+  {
+  "type": "imagemap",
+  "baseUrl": "https://i.imgur.com/j0Z2SZB.png",
+  "altText": "This is an imagemap",
+  "baseSize": {
+    "width": 1040,
+    "height": 1250
+  },
+  "actions": [
+    {
+      "type": "uri",
+      "area": {
+        "x": 33,
+        "y": 451,
+        "width": 293,
+        "height": 51
+      },
+      "linkUri": "https://www.blccjl.org.tw/聚會時間/"
+    },
+    {
+      "type": "uri",
+      "area": {
+        "x": 31,
+        "y": 508,
+        "width": 269,
+        "height": 57
+      },
+      "linkUri": "line://app/1653639527-xyPqrp8k"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 35,
+        "y": 565,
+        "width": 268,
+        "height": 53
+      },
+      "text": "楊梅靈糧堂"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 33,
+        "y": 620,
+        "width": 267,
+        "height": 57
+      },
+      "text": "動作 4"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 35,
+        "y": 679,
+        "width": 338,
+        "height": 53
+      },
+      "text": "動作 5"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 35,
+        "y": 738,
+        "width": 338,
+        "height": 53
+      },
+      "text": "動作 6"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 779,
+        "y": 426,
+        "width": 243,
+        "height": 55
+      },
+      "text": "動作 7"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 781,
+        "y": 483,
+        "width": 239,
+        "height": 55
+      },
+      "text": "動作 8"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 775,
+        "y": 538,
+        "width": 251,
+        "height": 57
+      },
+      "text": "動作 9"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 775,
+        "y": 597,
+        "width": 245,
+        "height": 56
+      },
+      "text": "動作 10"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 777,
+        "y": 655,
+        "width": 247,
+        "height": 57
+      },
+      "text": "動作 11"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 75,
+        "y": 1013,
+        "width": 235,
+        "height": 59
+      },
+      "text": "動作 12"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 77,
+        "y": 1071,
+        "width": 268,
+        "height": 63
+      },
+      "text": "動作 13"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 73,
+        "y": 1134,
+        "width": 359,
+        "height": 59
+      },
+      "text": "動作 14"
+    }
+  ]
+}
+]
