@@ -25,7 +25,7 @@ Line@ Church management system.
     小組長
   「不同身份」在此APP享有不同工能：
     路人、尚未穩定聚會的會友
-      ![image](ReadMe_files/新朋友.png)
+      ![image](https://github.com/ReadMe_files/新朋友.png)
     組員
       
     小組長
