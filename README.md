@@ -25,11 +25,11 @@ Line@ Church management system.
     小組長
   「不同身份」在此APP享有不同工能：
     路人、尚未穩定聚會的會友
-      ![image](https://github.com/ReadMe_files/新朋友.png)
+      ![image](https://github.com/KindleHsieh/welcomehome/blob/master/ReadMe_files/新朋友.png)
     組員
-      
+      ![image](https://github.com/KindleHsieh/welcomehome/blob/master/ReadMe_files/組員.png)
     小組長
-      
+      ![image](https://github.com/KindleHsieh/welcomehome/blob/master/ReadMe_files/小組長.png)
   每日訊息的排程更新：
     過12點會有新的消息可共會有食用。
   組內的代禱資訊或是訊息，只供組員看見/查詢(隱私保護)
